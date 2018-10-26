@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Apache translation for color red -->
+    <string name="apache_color_red">weṭeṭṭi</string>
+
+    <!-- Apache translation for color dusty yellow -->
+    <string name="apache_color_yellow">ṭopiisә</string>
+
+    <!-- Apache translation for color green -->
+    <string name="apache_color_green">chokokki</string>
+
+    <!-- Apache translation for color brown -->
+    <string name="apache_color_brown">ṭakaakki</string>
+
+    <!-- Apache translation for color black -->
+    <string name="apache_color_black">kululli</string>
+
+    <!-- Apache translation for color gray -->
+    <string name="apache_color_gray">ṭopoppi</string>
+
+    <!-- Apache translation for color white -->
+    <string name="apache_color_white">kelelli</string>
+
+    <!-- Apache translation for father -->
+    <string name="apache_family_father">әpә</string>
+
+    <!-- Apache translation for mother -->
+    <string name="apache_family_mother">әṭa</string>
+
+    <!-- Apache translation for son -->
+    <string name="apache_family_son">angsi</string>
+
+    <!-- Apache translation for daughter -->
+    <string name="apache_family_daughter">tune</string>
+
+    <!-- Apache translation for older brother -->
+    <string name="apache_family_older_brother">taachi</string>
+
+    <!-- Apache translation for younger brother -->
+    <string name="apache_family_younger_brother">chalitti</string>
+
+    <!-- Apache translation for older sister -->
+    <string name="apache_family_older_sister">teṭe</string>
+
+    <!-- Apache translation for younger sister -->
+    <string name="apache_family_younger_sister">kolliti</string>
+
+    <!-- Apache translation for grandmother -->
+    <string name="apache_family_grandmother">ama</string>
+
+    <!-- Apache translation for grandfather -->
+    <string name="apache_family_grandfather">paapa</string>
+
+    <!-- Apache translation for number one -->
+    <string name="apache_number_one">lutti</string>
+
+    <!-- Apache translation for number two -->
+    <string name="apache_number_two">otiiko</string>
+
+    <!-- Apache translation for number three -->
+    <string name="apache_number_three">tolookosu</string>
+
+    <!-- Apache translation for number four -->
+    <string name="apache_number_four">oyyisa</string>
+
+    <!-- Apache translation for number five -->
+    <string name="apache_number_five">massokka</string>
+
+    <!-- Apache translation for number six -->
+    <string name="apache_number_six">temmokka</string>
+
+    <!-- Apachetranslation for number seven -->
+    <string name="apache_number_seven">kenekaku</string>
+
+    <!-- Apache translation for number eight -->
+    <string name="apache_number_eight">kawinta</string>
+
+    <!-- Apache translation for number nine -->
+    <string name="apache_number_nine">wo\'e</string>
+
+    <!-- Apache translation for number ten -->
+    <string name="apache_number_ten">na\'aacha</string>
+
+    <!-- Apache translation for phrase "Where are you going?" -->
+    <string name="apache_phrase_where_are_you_going">minto wuksus</string>
+
+    <!-- Apache translation for phrase "What is your name?" -->
+    <string name="apache_phrase_what_is_your_name">tinnә oyaase\'nә</string>
+
+    <!-- Apache translation for phrase "My name is..." -->
+    <string name="apache_phrase_my_name_is">oyaaset...</string>
+
+    <!-- Apache translation for phrase "How are you feeling?" -->
+    <string name="apache_phrase_how_are_you_feeling">michәksәs?</string>
+
+    <!-- Apache translation for phrase "I'm feeling good." -->
+    <string name="apache_phrase_im_feeling_good">kuchi achit</string>
+
+    <!-- Apache translation for phrase "Are you coming?" -->
+    <string name="apache_phrase_are_you_coming">әәnәs\'aa?</string>
+
+    <!-- Apache translation for phrase "Yes, I'm coming." -->
+    <string name="apache_phrase_yes_im_coming">hәә\' әәnәm</string>
+
+    <!-- Apache translation for phrase "I'm coming." -->
+    <string name="apache_phrase_im_coming">әәnәm</string>
+
+    <!-- Apache translation for phrase "Let's go." -->
+    <string name="apache_phrase_lets_go">yoowutis</string>
+
+    <!-- Apache translation for phrase "Come here." -->
+    <string name="apache_phrase_come_here">әnni\'nem</string>
+</resources>
