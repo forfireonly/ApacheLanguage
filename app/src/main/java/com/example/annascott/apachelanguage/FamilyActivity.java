@@ -71,25 +71,25 @@ public class FamilyActivity extends AppCompatActivity {
         // Create a list of words
         final ArrayList<Word> words = new ArrayList<Word>();
         words.add(new Word(R.string.family_father, R.string.apache_family_father,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.family_mother, R.string.apache_family_mother,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.family_son, R.string.apache_family_son,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.family_daughter, R.string.apache_family_daughter,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.family_older_brother, R.string.apache_family_older_brother,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.family_younger_brother, R.string.apache_family_younger_brother,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.family_older_sister, R.string.apache_family_older_sister,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.family_younger_sister, R.string.apache_family_younger_sister,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.family_grandmother, R.string.apache_family_grandmother,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.family_grandfather, R.string.apache_family_grandfather,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.

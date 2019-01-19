@@ -71,25 +71,25 @@ public class PhrasesActivity extends AppCompatActivity {
         // Create a list of words
         final ArrayList<Word> words = new ArrayList<Word>();
         words.add(new Word(R.string.phrase_where_are_you_going,
-                R.string.apache_phrase_where_are_you_going, R.raw.test));
+                R.string.apache_phrase_where_are_you_going, R.raw.apache_one));
         words.add(new Word(R.string.phrase_what_is_your_name,
-                R.string.apache_phrase_what_is_your_name, R.raw.test));
+                R.string.apache_phrase_what_is_your_name, R.raw.apache_one));
         words.add(new Word(R.string.phrase_my_name_is,
-                R.string.apache_phrase_my_name_is, R.raw.test));
+                R.string.apache_phrase_my_name_is, R.raw.apache_one));
         words.add(new Word(R.string.phrase_how_are_you_feeling,
-                R.string.apache_phrase_how_are_you_feeling, R.raw.test));
+                R.string.apache_phrase_how_are_you_feeling, R.raw.apache_one));
         words.add(new Word(R.string.phrase_im_feeling_good,
-                R.string.apache_phrase_im_feeling_good, R.raw.test));
+                R.string.apache_phrase_im_feeling_good, R.raw.apache_one));
         words.add(new Word(R.string.phrase_are_you_coming,
-                R.string.apache_phrase_are_you_coming, R.raw.test));
+                R.string.apache_phrase_are_you_coming, R.raw.apache_one));
         words.add(new Word(R.string.phrase_yes_im_coming,
-                R.string.apache_phrase_yes_im_coming, R.raw.test));
+                R.string.apache_phrase_yes_im_coming, R.raw.apache_one));
         words.add(new Word(R.string.phrase_im_coming,
-                R.string.apache_phrase_im_coming, R.raw.test));
+                R.string.apache_phrase_im_coming, R.raw.apache_one));
         words.add(new Word(R.string.phrase_lets_go,
-                R.string.apache_phrase_lets_go, R.raw.test));
+                R.string.apache_phrase_lets_go, R.raw.apache_one));
         words.add(new Word(R.string.phrase_come_here,
-                R.string.apache_phrase_come_here, R.raw.test));
+                R.string.apache_phrase_come_here, R.raw.apache_one));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.

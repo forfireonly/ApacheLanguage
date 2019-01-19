@@ -34,6 +34,9 @@
     <!-- Vocabulary word for the color white [CHAR LIMIT=20] -->
     <string name="color_white">white</string>
 
+    <!-- Vocabulary word for the color white [CHAR LIMIT=20] -->
+    <string name="color_blue">blue</string>
+
     <!-- Vocabulary word for the number one [CHAR LIMIT=20] -->
     <string name="number_one">one</string>
 
@@ -63,6 +66,26 @@
 
     <!-- Vocabulary word for the number ten [CHAR LIMIT=20] -->
     <string name="number_ten">ten</string>
+
+    <string name="number_eleven">eleven</string>
+
+    <string name="number_twelve">twelve</string>
+
+    <string name="number_thirteen">thirteen</string>
+
+    <string name="number_fourteen">fourteen</string>
+
+    <string name="number_fifteen">fifteen</string>
+
+    <string name="number_sixteen">sixteen</string>
+
+    <string name="number_seventeen">seventeen</string>
+
+    <string name="number_eighteen">eighteen</string>
+
+    <string name="number_nineteen">nineteen</string>
+
+    <string name="number_twenty">twenty</string>
 
     <!-- Vocabulary word for the father family member [CHAR LIMIT=20] -->
     <string name="family_father">father</string>
@@ -123,4 +146,42 @@
 
     <!-- Vocabulary phrase for "Come here." [CHAR LIMIT=20] -->
     <string name="phrase_come_here">Come here.</string>
+
+    <string name="Monday">the day after Sunday</string>
+
+    <string name="Tuesday">two days after Sunday</string>
+
+    <string name="Wednesday">three days after Sunday</string>
+
+    <string name="Thursday">four days after Sunday</string>
+
+    <string name="Friday">five days after Sunday</string>
+
+    <string name="Saturday">ration day</string>
+
+    <string name="Sunday">the day when one does not work</string>
+
+    <string name="January">inside winter</string>
+
+    <string name="February">on top of winter</string>
+
+    <string name="March">traveling winds</string>
+
+    <string name="April">it is beginning to bud again</string>
+
+    <string name="May">mescal is blooming</string>
+
+    <string name="June">the first ripening</string>
+
+    <string name="July">sun</string>
+
+    <string name="August">everything has ripened</string>
+
+    <string name="September">deer are taking off velvet</string>
+
+    <string name="October">rain that won\'t stop</string>
+
+    <string name="November">November</string>
+
+    <string name="December">December</string>
 </resources>

@@ -111,5 +111,35 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(animalsIntent);
             }
         });
+
+        TextView daysOfWeek = (TextView) findViewById(R.id.daysOfWeek);
+
+        // Set a click listener on that View
+        daysOfWeek.setOnClickListener(new OnClickListener() {
+            // The code in this method will be executed when the numbers category is clicked on.
+            @Override
+            public void onClick(View view) {
+                // Create a new intent to open the {@link NumbersActivity}
+                Intent daysIntent = new Intent(MainActivity.this, DaysActivity.class);
+
+                // Start the new activity
+                startActivity(daysIntent);
+            }
+        });
+
+        TextView months = (TextView) findViewById(R.id.months);
+
+        // Set a click listener on that View
+        months.setOnClickListener(new OnClickListener() {
+            // The code in this method will be executed when the numbers category is clicked on.
+            @Override
+            public void onClick(View view) {
+                // Create a new intent to open the {@link NumbersActivity}
+                Intent monthIntent = new Intent(MainActivity.this, MonthsActivity.class);
+
+                // Start the new activity
+                startActivity(monthIntent);
+            }
+        });
     }
-}
+    }

@@ -52,7 +52,14 @@
             android:value=".MainActivity"/>
         <activity android:name=".AnimalsActivity"
             android:parentActivityName=".MainActivity"></activity>
+        <activity android:name=".DaysActivity"
+            android:parentActivityName=".MainActivity"></activity>
+
+        <activity android:name=".MonthsActivity"
+            android:parentActivityName=".MainActivity"></activity>
         <!-- Parent activity meta-data to support 4.0 and lower -->
+
+
         <meta-data
             android:name="android.support.PARENT_ACTIVITY"
             android:value=".MainActivity"/>

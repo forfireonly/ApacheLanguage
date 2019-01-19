@@ -71,25 +71,49 @@ public class NumbersActivity extends AppCompatActivity {
         // Create a list of words
         final ArrayList<Word> words = new ArrayList<Word>();
         words.add(new Word(R.string.number_one, R.string.apache_number_one,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.one, R.raw.one_trimmed));
         words.add(new Word(R.string.number_two, R.string.apache_number_two,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.two, R.raw.two_trimmed));
         words.add(new Word(R.string.number_three, R.string.apache_number_three,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.three, R.raw.three_trimmed));
         words.add(new Word(R.string.number_four, R.string.apache_number_four,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.four, R.raw.four_trimmed));
         words.add(new Word(R.string.number_five, R.string.apache_number_five,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.five, R.raw.five_trimmed));
         words.add(new Word(R.string.number_six, R.string.apache_number_six,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.six, R.raw.six_trimmed));
         words.add(new Word(R.string.number_seven, R.string.apache_number_seven,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.seven, R.raw.seven_trimmed));
         words.add(new Word(R.string.number_eight, R.string.apache_number_eight,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.eight, R.raw.eight_trimmed));
         words.add(new Word(R.string.number_nine, R.string.apache_number_nine,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.nine, R.raw.nine_trimmed));
         words.add(new Word(R.string.number_ten, R.string.apache_number_ten,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.ten, R.raw.ten_trimmed));
+        words.add(new Word(R.string.number_eleven, R.string.apache_number_eleven,
+                R.drawable.eleven, R.raw.eleven_trimmed));
+        words.add(new Word(R.string.number_twelve, R.string.apache_number_twelve,
+                R.drawable.twelve, R.raw.twelve_trimmed1));
+        words.add(new Word(R.string.number_thirteen, R.string.apache_number_thirteen,
+                R.drawable.thirteen, R.raw.thirteen_trimmed));
+        words.add(new Word(R.string.number_fourteen, R.string.apache_number_fourteen,
+                R.drawable.fourteen, R.raw.fourteen_trimmed));
+        words.add(new Word(R.string.number_fifteen, R.string.apache_number_fifteen,
+                R.drawable.fifteen, R.raw.fifteen_trimmed));
+        words.add(new Word(R.string.number_sixteen, R.string.apache_number_sixteen,
+                R.drawable.sixteen, R.raw.sixteen_trimmed));
+        words.add(new Word(R.string.number_seventeen, R.string.apache_number_seventeen,
+                R.drawable.seventeen, R.raw.seventeen_trimmed));
+        words.add(new Word(R.string.number_eighteen, R.string.apache_number_eighteen,
+                R.drawable.eighteen, R.raw.eighteen_trimmed));
+        words.add(new Word(R.string.number_nineteen, R.string.apache_number_nineteen,
+                R.drawable.nineteen, R.raw.nineteen_trimmed));
+        words.add(new Word(R.string.number_twenty, R.string.apache_number_twenty,
+                R.drawable.twenty, R.raw.twenty_trimmed));
+
+
+
+
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.

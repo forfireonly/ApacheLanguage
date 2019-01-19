@@ -53,37 +53,67 @@
     <string name="apache_family_grandfather">paapa</string>
 
     <!-- Apache translation for number one -->
-    <string name="apache_number_one">lutti</string>
+    <string name="apache_number_one">dale\'e</string>
 
     <!-- Apache translation for number two -->
-    <string name="apache_number_two">otiiko</string>
+    <string name="apache_number_two">naaki</string>
 
     <!-- Apache translation for number three -->
-    <string name="apache_number_three">tolookosu</string>
+    <string name="apache_number_three">tai\'</string>
 
     <!-- Apache translation for number four -->
-    <string name="apache_number_four">oyyisa</string>
+    <string name="apache_number_four">dii</string>
 
     <!-- Apache translation for number five -->
-    <string name="apache_number_five">massokka</string>
+    <string name="apache_number_five">\'aashdlai</string>
 
     <!-- Apache translation for number six -->
-    <string name="apache_number_six">temmokka</string>
+    <string name="apache_number_six">guust\'ani</string>
 
     <!-- Apachetranslation for number seven -->
-    <string name="apache_number_seven">kenekaku</string>
+    <string name="apache_number_seven">guusts\'iidi</string>
 
     <!-- Apache translation for number eight -->
-    <string name="apache_number_eight">kawinta</string>
+    <string name="apache_number_eight">tsaabi\'</string>
 
     <!-- Apache translation for number nine -->
-    <string name="apache_number_nine">wo\'e</string>
+    <string name="apache_number_nine">\'nguust\'ai</string>
 
     <!-- Apache translation for number ten -->
-    <string name="apache_number_ten">na\'aacha</string>
+    <string name="apache_number_ten">guneenani</string>
+
+    <!-- Apache translation for number ten -->
+    <string name="apache_number_eleven">ledzaada</string>
+
+    <!-- Apache translation for number ten -->
+    <string name="apache_number_twelve">naakidzaada</string>
+
+    <!-- Apache translation for number ten -->
+    <string name="apache_number_thirteen">taidzaada</string>
+
+    <!-- Apache translation for number ten -->
+    <string name="apache_number_fourteen">diidzaada</string>
+
+    <!-- Apache translation for number ten -->
+    <string name="apache_number_fifteen">\'aashdlaidzaada</string>
+
+    <!-- Apache translation for number ten -->
+    <string name="apache_number_sixteen">guustanidzaada</string>
+
+    <!-- Apache translation for number ten -->
+    <string name="apache_number_seventeen">guustsiididzaada</string>
+
+    <!-- Apache translation for number ten -->
+    <string name="apache_number_eighteen">tsaabidzaada</string>
+
+    <!-- Apache translation for number ten -->
+    <string name="apache_number_nineteen">\'nguust\'aidzaada</string>
+
+    <!-- Apache translation for number ten -->
+    <string name="apache_number_twenty">naadini</string>
 
     <!-- Apache translation for phrase "Where are you going?" -->
-    <string name="apache_phrase_where_are_you_going">minto wuksus</string>
+    <string name="apache_phrase_where_are_you_going">ledzaada</string>
 
     <!-- Apache translation for phrase "What is your name?" -->
     <string name="apache_phrase_what_is_your_name">tinnә oyaase\'nә</string>
@@ -111,4 +141,42 @@
 
     <!-- Apache translation for phrase "Come here." -->
     <string name="apache_phrase_come_here">әnni\'nem</string>
+
+    <string name="apache_sunday">duuna\'idziida</string>
+
+    <string name="apache_monday">duuna\'idziidashi\'hiiskagu</string>
+
+    <string name="apache_tuesday">duuna\'idziidashi\'naakiiskagu</string>
+
+    <string name="apache_wednesday">duuna\'idziidashi\'tai\'hiiskagu</string>
+
+    <string name="apache_thursday">duuna\'idziidashi\'dii\'hiiskagu</string>
+
+    <string name="apache_friday">duuna\'idziidashi\'aashdlai\'hiiskagu</string>
+
+    <string name="apache_saturday">hada\'iigeegu</string>
+
+    <string name="apache_january">biyeexa</string>
+
+    <string name="apache_february">bik\'eexa</string>
+
+    <string name="apache_march">\'nlch\'inaagha</string>
+
+    <string name="apache_april">tsin bichugaleel</string>
+
+    <string name="apache_may">\'inaada\'iigaa\'</string>
+
+    <string name="apache_june">\'iltse\'nant\'a</string>
+
+    <string name="apache_july">shaa</string>
+
+    <string name="apache_august">daaneest\'agu</string>
+
+    <string name="apache_september">bii dibee yedizuuse\'</string>
+
+    <string name="apache_october">duu diltiidi naalti</string>
+
+    <string name="apache_november">shu nuuka\'</string>
+
+    <string name="apache_december">xa \'iildii\'</string>
 </resources>

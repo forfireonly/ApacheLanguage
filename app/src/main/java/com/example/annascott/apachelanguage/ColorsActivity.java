@@ -71,19 +71,21 @@ public class ColorsActivity extends AppCompatActivity {
         // Create a list of words
         final ArrayList<Word> words = new ArrayList<Word>();
         words.add(new Word(R.string.color_red, R.string.apache_color_red,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.color_yellow, R.string.apache_color_yellow,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.color_green, R.string.apache_color_green,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.color_brown, R.string.apache_color_brown,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.color_gray, R.string.apache_color_gray,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.color_black, R.string.apache_color_black,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
         words.add(new Word(R.string.color_white, R.string.apache_color_white,
-                R.drawable.place_holder, R.raw.test));
+                R.drawable.place_holder, R.raw.apache_one));
+        words.add(new Word(R.string.color_blue, R.string.apache_color_white,
+                R.drawable.place_holder, R.raw.apache_one));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.
