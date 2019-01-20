@@ -13,6 +13,13 @@
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
     <string name="category_family">Family Members</string>
 
+    <string name="category_days">Days</string>
+
+    <string name="category_months">Months</string>
+
+    <string name="category_animals">Animals</string>
+
+    <string name="category_food">Food</string>
     <!-- Vocabulary word for the color red [CHAR LIMIT=20] -->
     <string name="color_red">red</string>
 
