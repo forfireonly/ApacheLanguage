@@ -84,7 +84,7 @@ public class ColorsActivity extends AppCompatActivity {
                 R.drawable.place_holder, R.raw.black));
         words.add(new Word(R.string.color_white, R.string.apache_color_white,
                 R.drawable.place_holder, R.raw.white));
-        words.add(new Word(R.string.color_blue, R.string.apache_color_white,
+        words.add(new Word(R.string.color_blue, R.string.apache_color_blue,
                 R.drawable.place_holder, R.raw.blue));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The

@@ -2,25 +2,27 @@
 <resources>
 
     <!-- Apache translation for color red -->
-    <string name="apache_color_red">weṭeṭṭi</string>
+    <string name="apache_color_red">litu</string>
 
     <!-- Apache translation for color dusty yellow -->
-    <string name="apache_color_yellow">ṭopiisә</string>
+    <string name="apache_color_yellow">litsu</string>
 
     <!-- Apache translation for color green -->
-    <string name="apache_color_green">chokokki</string>
+    <string name="apache_color_green">datlish</string>
 
     <!-- Apache translation for color brown -->
-    <string name="apache_color_brown">ṭakaakki</string>
+    <string name="apache_color_brown">nlxine</string>
+
+    <string name="apache_color_blue">datlije</string>
 
     <!-- Apache translation for color black -->
-    <string name="apache_color_black">kululli</string>
+    <string name="apache_color_black">lizhi</string>
 
     <!-- Apache translation for color gray -->
-    <string name="apache_color_gray">ṭopoppi</string>
+    <string name="apache_color_gray">libaye</string>
 
     <!-- Apache translation for color white -->
-    <string name="apache_color_white">kelelli</string>
+    <string name="apache_color_white">liga</string>
 
     <!-- Apache translation for father -->
     <string name="apache_family_father">әpә</string>
