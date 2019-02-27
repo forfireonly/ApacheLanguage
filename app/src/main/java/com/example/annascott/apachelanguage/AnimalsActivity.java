@@ -70,20 +70,20 @@ public class AnimalsActivity extends AppCompatActivity {
 
         // Create a list of words
         final ArrayList<Word> words = new ArrayList<Word>();
-        words.add(new Word(R.string.color_red, R.string.apache_color_red,
-                R.drawable.place_holder, R.raw.apache_one));
-        words.add(new Word(R.string.color_yellow, R.string.apache_color_yellow,
-                R.drawable.place_holder, R.raw.apache_one));
-        words.add(new Word(R.string.color_green, R.string.apache_color_green,
-                R.drawable.place_holder, R.raw.apache_one));
-        words.add(new Word(R.string.color_brown, R.string.apache_color_brown,
-                R.drawable.place_holder, R.raw.apache_one));
-        words.add(new Word(R.string.color_gray, R.string.apache_color_gray,
-                R.drawable.place_holder, R.raw.apache_one));
-        words.add(new Word(R.string.color_black, R.string.apache_color_black,
-                R.drawable.place_holder, R.raw.apache_one));
-        words.add(new Word(R.string.color_white, R.string.apache_color_white,
-                R.drawable.place_holder, R.raw.apache_one));
+        words.add(new Word(R.string.elk, R.string.apache_color_red,
+                R.drawable.place_holder, R.raw.elk));
+        words.add(new Word(R.string.dog, R.string.apache_color_yellow,
+                R.drawable.place_holder, R.raw.dog));
+        words.add(new Word(R.string.deer, R.string.apache_color_green,
+                R.drawable.place_holder, R.raw.deer));
+        words.add(new Word(R.string.cat, R.string.apache_color_brown,
+                R.drawable.place_holder, R.raw.cat));
+        words.add(new Word(R.string.bear, R.string.apache_color_gray,
+                R.drawable.place_holder, R.raw.bear));
+        words.add(new Word(R.string.horse, R.string.apache_color_black,
+                R.drawable.place_holder, R.raw.horse));
+        words.add(new Word(R.string.chicken, R.string.apache_color_white,
+                R.drawable.place_holder, R.raw.chicken));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.

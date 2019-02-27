@@ -1,5 +1,20 @@
 <resources>
+
     <string name="app_name">Apache Language</string>
+
+    <string name="elk">Elk</string>
+
+    <string name="deer">deer</string>
+
+    <string name="dog">dog</string>
+
+    <string name="cat">cat</string>
+
+    <string name="bear">bear</string>
+
+    <string name="horse">horse</string>
+
+    <string name="chicken">chicken</string>
 
     <!-- Category name for phrases [CHAR LIMIT=20] -->
     <string name="category_phrases">Phrases</string>
